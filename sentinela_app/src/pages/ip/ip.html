@@ -1,0 +1,16 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>IP do servidor</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+    <ion-item>
+        <ion-label color="primary" floating>Ip do servidor</ion-label>
+        <ion-input [(ngModel)]="ip"></ion-input>
+      </ion-item>
+  <br><br>
+  <div style="text-align:center">
+    <button ion-button (click)="salvar()">Salvar IP</button>
+  </div>
+</ion-content>

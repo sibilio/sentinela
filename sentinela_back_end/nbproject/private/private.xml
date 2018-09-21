@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/marcos/workspace/projetos/faltas/faltas/resources/views/back/materias/editar.blade.php</file>
+            <file>file:/home/marcos/workspace/projetos/faltas/faltas/resources/views/templates/admin.blade.php</file>
+            <file>file:/home/marcos/workspace/projetos/faltas/faltas/resources/views/back/materias/tds.blade.php</file>
+            <file>file:/home/marcos/workspace/projetos/faltas/faltas/routes/api.php</file>
+            <file>file:/home/marcos/workspace/projetos/faltas/faltas/Sentinela/AlunoRepository.php</file>
+            <file>file:/home/marcos/workspace/projetos/faltas/faltas/Sentinela/Chamada.php</file>
+            <file>file:/home/marcos/workspace/projetos/faltas/faltas/database/seeds/PermissoesSeeder.php</file>
+            <file>file:/home/marcos/workspace/projetos/faltas/faltas/app/Http/Controllers/Back/Materias/MateriaController.php</file>
+            <file>file:/home/marcos/workspace/projetos/faltas/faltas/app/Http/Controllers/Api/AlunoController.php</file>
+            <file>file:/home/marcos/workspace/projetos/faltas/faltas/database/seeds/CursosSeeder.php</file>
+            <file>file:/home/marcos/workspace/projetos/faltas/faltas/resources/views/back/materias/listagem.blade.php</file>
+            <file>file:/home/marcos/workspace/projetos/faltas/faltas/resources/views/back/materias/adicionar.blade.php</file>
+            <file>file:/home/marcos/workspace/projetos/faltas/faltas/app/Materias.php</file>
+        </group>
+    </open-files>
+</project-private>

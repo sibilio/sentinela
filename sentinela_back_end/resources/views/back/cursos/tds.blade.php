@@ -1,0 +1,1 @@
+<td>{{$registro->nome}}</td>
